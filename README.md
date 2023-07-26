@@ -6,6 +6,6 @@
 
 ## Usage
 
-正方形の画像を`./image/myimage.jpg`に配置し，Processingで`./PDEMain.pde`を実行します．
+正方形の画像を`./image/myimage.png`として配置し，Processingで，`./PDEMain.pde`を実行します．
 
 *ファイル名を変更したい場合は`./PDEMain.pde`の`IMAGE_PATH`定数を書き換えます．

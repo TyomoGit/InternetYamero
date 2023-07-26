@@ -1,6 +1,6 @@
 final int FRAME_RATE = 60;
 final float SPEED = PI/1000;
-final String IMAGE_PATH = "./image/myimage.jpg";
+final String IMAGE_PATH = "./image/myimage.png";
 final String CIRCLE_TEXT_IMAGE_PATH = "./data/CircleText.png";
 final String FONT_PATH = "./data/Sarabun-ExtraBoldItalic-48.vlw";
 
